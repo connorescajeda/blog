@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Reflection on Lab 7"
+date:   2021-10-12 9:43:13
+categories: reflection
+author: Connor Escajeda
+---
+This lab overall wasn't too bad at all. I had some weird issues when I first started but a little bit of googling and troubleshooting solved those issues really quickly. I don't know if there was a necessarily an easiest part, a lot of it was pretty easy since we had pretty thorough instructions to follow. The most confusing thing to me was the data type tags you are able to add mainly because I don't feel like they were the most clear on what exactly it was doing but I am sure with time it will be easy.  It wasn't too difficult to make my own application especially because I was just able to look at what I had done with the tutorial as a guide. There are a ton of parallels between the Razor Pages and Jekyll. For one the ability to have pages that all follow the same template is the one that jumped out at me and the fact that I almost thought I was using Jekyll just because of how the site looked. The main big difference in the framework I thought about was that the Razor application uses a lot of C# in the background to make things work where as Jekyll is primarily Ruby based. I am fairly confident in my ability to create another Razor application especially because I will have this one as a guide to help me with it.
+[GitHub Link](https://github.com/connorescajeda/csci340lab7.git)
