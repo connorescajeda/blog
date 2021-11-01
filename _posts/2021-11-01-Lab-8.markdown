@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Reflection on Lab 8"
+date:   2021-11-01 4:04
+categories: reflection
+author: Connor Escajeda
+---
+Overall this lab wasn't difficult just really time consuming and tedious to read through the instructions and figure out what I was actually doing and what was just examples and screenshots. The easiest part was just the code we had to copy and paste in to make the changes and the confusing parts was when I would go to add my own modifications and figuring what exactly everything meant because there was a lot of information to absorb from this tutorial. I don't know if anything was too much more difficult here since we had the tutorial but in terms of the sheer amount of moving parts and things you have to take in to account when you have multiple databases is HUGE. So that is what I definitely think makes multiple databases more difficult. I feel pretty prepared to work on my teams project but I already know I will be coming back to these tutorials non-stop to make sure that I am doing things correctly. Thankfully, I think the databases I will be setting up with my team are a lot simpler than the one in this tutorial but I now have the experience with this more complex database so it should make the experience of doing mine a lot easier, hopefully.
+[GitHub Link](https://github.com/connorescajeda/csci340lab8.git)
