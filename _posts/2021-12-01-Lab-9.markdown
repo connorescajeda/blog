@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Reflection on Lab 9"
+date:   2021-12-01 8:30
+categories: reflection
+author: Connor Escajeda
+---
+This lab might has well been the death of me. I decided for the sake of our team being able to get a lot of work on our project done that I would take most of the lead in this since I did a lot of the work on getting the project started and up and running. There were really no easy parts of this tutorial, I think I would run into some form of error on almost every step or section which was just a joy but I am through it now. The most confusing part is definitely just getting used to using both Bash terminal and then the terminal within Azure as well as navigating through Azure. We divided up the work by letting me do most of it and whenever running into issues I would reach out to the team. The main communication skill was that we were able to divide out a lot of work that wasn't just this lab and got a lot more work done than we would have if we were just banging our heads into the lab instead it was just me.
+[Here she is](https://lab9part2.azurewebsites.net/)
