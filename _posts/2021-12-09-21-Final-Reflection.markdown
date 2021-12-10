@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "SW Reflection"
+date:   2021-12-09 8:00
+categories: reflection
+author: Connor Escajeda
+---
+I think the ability to be an active listener is the biggest skill to carry out the social change work for our partner. This is because we need to listen to what is our client is wanting to accomplish and be able to take what they say an ask questions so that we can receive all of the information that we need to learn. Then another skill valuable in allowing me to carry out this work is being able to communicate what I can do programming wise in a way that can be understood by someone that is not a computer scientist. These skills meshed really well with what I saw in myself during this experience. This experience was awesome because I love the ability to have client interaction and then also get to go and program their requests and be able to have that back and forth I think it is super fun. I had found that my skills as an active listener and as someone who can communicate really well about the computer side and also be able to do the program was extremely satisfying.
+
+I do think that the way of approaching social change in the way my client is effective. This is because he is trying to take this data that is normally super inaccessible and hard to read/access and putting it into a very user friendly and accessible format so that people can make use of it. So while they may not directly be giving the data to someone and creating the change their, someone could use this data to advocate for some form of social change or other various things. I think that data that is easily readable and understandable is a huge factor in creating change because if you’re trying to create a change you can’t make the evidence difficult to understand otherwise you’re defeating the purpose.
+
+I don’t believe any of my values, ideals, or beliefs have necessarily been changed but some of them have definitely been reaffirmed. My belief in that you get whatever you work for was really shown to me because I worked really hard on this project and even though it didn’t get to where I wanted it to be I had a lot of satisfaction in the time and effort I put in to it. My coursework was very helpful in allowing me to be able to work as hard as I did on this project because with out the coursework I would not have been able to understand what I was doing nearly as well.
+
+This experience has just taught me that when you are working for someone else or for an issue that is greater than yourself, you are going to be much more willing to put more on the line. It is really easy to let yourself down because we will always forgive ourself but it is so much harder to let someone else down because they won’t so easily forgive you or you just don’t want to deal with the feelings that come from letting someone else down. 
