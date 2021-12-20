@@ -24,7 +24,7 @@ github_username: connorescajeda
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: abhinavs/moonwalk
 plugins:
   - jekyll-feed
 
